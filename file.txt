@@ -1,0 +1,9 @@
+var message = "Привет, мир!";
+
+// Выводим значение переменной в консоль
+console.log(message);
+
+// Создаем функцию
+function multiply(a, b) {
+  return a * b;
+}
